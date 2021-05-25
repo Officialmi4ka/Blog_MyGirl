@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
+body{
+    background-color: black;
+}
+.title-h1{
+
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 52px;
+    color: white;
+    margin-bottom: 70pt;
+    margin-top: 10pt;
+
+}
+.item-shop{
+    height: 357px;
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    margin-bottom: 150pt;
+}
+.item-shop1{
+    background-image: url(img/love1.jpg);
+    color: white;
+}
+.item-shop2{
+    background-image: url(img/love2.jpg);
+
+}
+.item-shop3{
+    background-image: url(img/love3.jpg);
+
+}
+.text-info{
+    font-size: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: black;
+
+}
+.text-info h3{
+    font-family: 'Mountains of Christmas', cursive;
+    color: white;
+    text-align: center;
+}
+.footer{
+    height: 500px;
+    background-image: url(img/footer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
